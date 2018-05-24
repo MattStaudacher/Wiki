@@ -1,0 +1,33 @@
+body{
+  font-size:14px;
+}
+h1{
+  font-size:24px;
+}
+#customheader{
+  background-color: #EDE2DE;
+  padding: 15px 15px 15px 15px;
+  height: auto;
+  overflow: hidden;
+}
+ul{
+  padding: 15px 15px 15px 15px;
+}
+.row{
+  text-align: center;
+}
+.column-heading{
+  background-color: #06D6A0;
+  text-align: left;
+}
+.panel-body{
+  background-color: #cdf6ec;
+  text-align: left;
+}
+.panel2{
+  float: right;
+  background-color: #bdcbd7; 
+}
+.heading2{
+  background-color: #26547C;
+}
